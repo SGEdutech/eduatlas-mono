@@ -1,0 +1,27 @@
+{
+	"teacher": [
+		"schedules",
+		"attendance",
+		"study material",
+		"communicator",
+		"test",
+		"edit user profile"
+	],
+	"centre manager": [
+		"schedules",
+		"attendance",
+		"study material",
+		"configure",
+		"students",
+		"communicator",
+		"test",
+		"requests",
+		"leads",
+		"edit user profile"
+	],
+	"counselor": [
+		"requests",
+		"leads",
+		"edit user profile"
+	]
+}

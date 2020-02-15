@@ -1,0 +1,9 @@
+{"MONGO":{"URI":"mongodb://mannvender:goldenstar001@ds127961.mlab.com:27961/atlas"},"COOKIE":{"DOMAIN":"localhost"}, 
+"FIREBASE": {
+
+		"authorizationKey": "AAAAFAW8HKY:APA91bGj9Bpmwel6LWCr1b45KfWgI5Ea15nZ1Pk7KRbe1IemiXHHbEXRCsukzAyMVOe-QnvcjDOd_gbSgoYt219W4lk2CVgLreWKH0d0nSJfB3I-cxxq7QfJ6hpISkHI2wXCMuGAyFpA",
+
+		"projectId": "85995560102"
+
+	}
+}

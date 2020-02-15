@@ -1,0 +1,6 @@
+.fixedHeight {
+	/* display: block; */
+  height: 1.5rem;
+  overflow: hidden;
+  /* max-height: 2rem; */
+}

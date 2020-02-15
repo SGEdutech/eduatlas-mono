@@ -1,0 +1,7 @@
+{
+	"schemeAndAuthority": "http://localhost:5500",
+	"tuitionId": null,
+	"tuitionName": "Test Institute",
+	"primaryColor": "#00bcd4",
+	"isProd": false
+}

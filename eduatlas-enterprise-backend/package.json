@@ -1,0 +1,23 @@
+{
+  "name": "eduatlas-enterprise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect-mongodb-session": "^2.0.6",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-declare": "^0.3.0",
+    "gulp-handlebars": "^5.0.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-wrap": "^0.14.0"
+  }
+}
